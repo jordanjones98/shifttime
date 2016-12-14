@@ -618,3 +618,19 @@ Completed 200 OK in 2707ms (Views: 2705.8ms | ActiveRecord: 0.0ms)
 Completed 200 OK in 1808ms (Views: 1806.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for ::1 at 2016-12-13 20:32:47 -0600
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (1.8ms)
+Started GET "/" for ::1 at 2016-12-13 20:32:48 -0600
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered static_pages/index.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+Completed 200 OK in 492ms (Views: 479.6ms | ActiveRecord: 0.0ms)
+
+
+  Rendered layouts/_header.html.erb (0.3ms)
+Completed 200 OK in 252ms (Views: 250.8ms | ActiveRecord: 0.0ms)
+
+
